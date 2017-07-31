@@ -23,7 +23,7 @@ var createCat = function(meow){
   pic.appendChild(img);
   cat.appendChild(name);
   cat.appendChild(fav);
-  cat.appendChild(img);
+  cat.appendChild(pic);
   var cats = document.querySelector("#cats");
   cats.appendChild(cat);
 };

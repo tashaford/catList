@@ -5,6 +5,7 @@ p {
   color: white;
   font-size: 40px;
   font-family: Helvetica;
+  text-align: center;
 }
 
 li {
@@ -12,7 +13,8 @@ li {
   font-size: 20px;
   font-family: Helvetica;
   font-style: italic;
-  list-style: circle;
+  list-style: none;
+  text-align: center;
 }
 
 .logo {
